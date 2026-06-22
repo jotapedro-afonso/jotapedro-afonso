@@ -1,8 +1,16 @@
-# Olá, eu sou o João Pedro 👋
+# Olá, eu sou João Pedro Oliveira Afonso 👋
 
 <div align="center">
 
-### Estudante de Tecnologia | Dev em formação 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Dev+em+formação;Apaixonado+por+tecnologia+e+pesquisa" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders.gif?raw=true" width="500">
 
 </div>
 
@@ -10,120 +18,94 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é João Pedro Oliveira Afonso e sou estudante do terceiro ano do curso de desenvolvimento de sistemnas da escola Clodoveu Barbosa, onde há o curso integrado ao ensino médio comum.
+Olá! Meu nome é **João Pedro Oliveira Afonso**.
 
-Tenho interesse na área de Tecnologia da Informação, mais especificamente a aréa da Ciência, pesquisas seguindo essa vertente, estou buscando desenvolver meus conhecimentos em programação, desenvolvimento de sistemas e novas tecnologias.
+Sou estudante do **3º ano do curso técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Clodoveu Barbosa**.
 
-Sou uma pessoa extremamente proativa, trabalho muito bem em grupo, sou extremamente colaborativo e comunicativo, me adapto rápido e tenho facilidade em aprender soxinho, sempre busco aprender e evoluir profissionalmente de acordo com as oportunidades que me são disponibilizadas.
+Tenho grande interesse pela área de **Tecnologia da Informação**, especialmente nos campos relacionados à **Ciência, pesquisa e inovação tecnológica**.
 
-Atualmente estou construindo minha trajetória na área de tecnologia através de estudos, projetos práticos e desafios que contribuem para o meu crescimento, muuitos deles feitos em sala de aula.
+Busco constantemente desenvolver meus conhecimentos em programação, desenvolvimento de sistemas e novas tecnologias.
 
----
+Sou uma pessoa **proativa, comunicativa e colaborativa**, com facilidade para trabalhar em equipe, aprender novas ferramentas e me adaptar a diferentes desafios.
 
-## 🎓 Formação
-
-📚 Cursando: Desenvolvimento de Sistemas [ETEC}
-
-🏫 **Instituição: Clodoveu Barbosa/ETEC
-
-📅 **Previsão de conclusão: 2026
+Atualmente venho construindo minha trajetória profissional através de estudos, projetos acadêmicos e experiências práticas desenvolvidas principalmente em sala de aula.
 
 ---
 
-## 🚀 Áreas de interesse
+# 🎓 Formação
 
-Tenho maior interesse nas seguintes áreas:
-
-- 💻 Desenvolvimento de Software
-- 🌐 Desenvolvimento Web
-- 📱 Desenvolvimento de aplicações
-- 🗄️ Banco de Dados
-- 🔐 Segurança da Informação
-- 🤖 Inteligência Artificial
-- ⚙️ Ciências das tecnologias
+🎓 **Curso:** Desenvolvimento de Sistemas  
+🏫 **Instituição:** ETEC Clodoveu Barbosa  
+📅 **Conclusão prevista:** 2026  
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+# 🚀 Áreas de interesse
 
-### Linguagens de programação:
-
-- JavaScript (básico)
-- Kotlinn (básico)
-- Php (básico)
-
-### Tecnologias:
-
-- HTML
-- CSS
-- Node.js
-
-### Ferramentas:
-
-- Git
-- GitHub
-- Visual Studio Code
-- Whinsical
-- SQL.express
-
----
-
-## 📌 Projetos
-
-Alguns projetos que já desenvolvi ou participei:
-
-### 🔹 Sa.Med
-
-Descrição:
-Este é meu trabalho de tcc (trabalho de conslusão de curso) ao  qual está em processo de desenvolvimento e será meu grande portifólio profissional este ano.
-Se baseará em ser uma agenda para profissionais autonômos da área da saúde, em sua gestão de tempoi e clientes.
-
-Tecnologias utilizadas:
-Html, CSS, JavaScript, Visual Studio, SQL.express, Figma, Whinsical...
-
----
-
-## 📖 O que estou aprendendo
-
-Atualmente estou estudando e buscando evoluir em:
-
-- Banco de dados
-- Versionamento de código
-- Front-End
-- Back-End
-- Desenvolvimento Mobile
-- IA
-  
-
-No futuro pretendo aprofundar meus conhecimentos nessas mesmas áreas, mas com foco em pesquisa.
-
-
----
-
-## 🎯 Objetivos profissionais
-
-Meu objetivo de curto prazo é conquistar um "vocabulário" de conhjecimento grande, onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e desenvolver novas habilidades.
-
-A longo prazo, pretendo ingressar em uma universidade, dando continuidade à minha formação acadêmica e buscando crescimento profissional dentro da área de tecnologia.
-
----
-
-## 📊 GitHub Stats
+Tenho interesse nas seguintes áreas:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[jotapedro-afonso]&show_icons=true&theme=tokyonight)
+💻 Desenvolvimento de Software  
+🌐 Desenvolvimento Web  
+📱 Desenvolvimento Mobile  
+🗄️ Banco de Dados  
+🔐 Segurança da Informação  
+🤖 Inteligência Artificial  
+🔬 Pesquisa e Ciência da Computação  
 
 </div>
 
 ---
 
-## 📫 Contato
+# 🛠️ Tecnologias e ferramentas
 
-📧 Email: joaopedroafonso2009@gmail.com
+## Linguagens
 
-🌎 GitHub: [SEU LINK]
+<div>
+
+<img src="https://img.shields.io/badge/JavaScript-Básico-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Kotlin-Básico-purple?style=for-the-badge&logo=kotlin">
+<img src="https://img.shields.io/badge/PHP-Básico-777BB4?style=for-the-badge&logo=php">
+
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## Desenvolvimento
+
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+
+</div>
+
+---
+
+## Ferramentas
+
+- Git
+- GitHub
+- Visual Studio Code
+- Whimsical
+- SQL Server / SQL Express
+- Figma
+
+---
+
+# 📌 Projetos
+
+## 🏥 Sa.Med — Sistema de gerenciamento para profissionais da saúde
+
+Projeto desenvolvido como **Trabalho de Conclusão de Curso (TCC)**.
+
+O Sa.Med tem como objetivo auxiliar profissionais autônomos da área da saúde na organização de:
+
+- agenda;
+- gerenciamento de clientes;
+- controle de horários;
+- otimização da rotina profissional.
+
+Tecnologias utilizadas:
