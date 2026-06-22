@@ -166,11 +166,6 @@ Tecnologias utilizadas:
 
 ---
 
-
-🚧 Projeto atualmente em desenvolvimento.
-
----
-
 # 📖 Atualmente estudando
 
 No momento estou aprimorando meus conhecimentos em:
